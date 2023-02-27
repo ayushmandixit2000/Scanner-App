@@ -1,7 +1,7 @@
 # Scanner App for WaveScan
 Web application using ReactJS that allows users to input scanner parameters and submit the information to a backend API for validation. Once the information is validated, the user is able to view a list of all available scanners along with their details.
 
-Hosted Live here: 
+Hosted Live here: https://scanner-app-nine.vercel.app/
 
 # Key Features
 1. Allow users to input scanner parameters, such as scanning frequency, dimensions, and project
