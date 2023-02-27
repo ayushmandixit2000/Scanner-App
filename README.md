@@ -3,7 +3,7 @@ Web application using ReactJS that allows users to input scanner parameters and 
 
 Hosted Live here: 
 
-#Key Features
+# Key Features
 1. Allow users to input scanner parameters, such as scanning frequency, dimensions, and project
 name via a form component
 2. Submit the form data to a backend API.
